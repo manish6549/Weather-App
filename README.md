@@ -1,6 +1,6 @@
 # Live Example
 
-[LIVE SITE](https://kundank02.github.io/weather-app/)
+[LIVE SITE](https://manish6549.github.io/Weather-App/)
 
 
 
